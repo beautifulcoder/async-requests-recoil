@@ -1,0 +1,64 @@
+{
+  "whales": [{
+    "id": "blue_whale",
+    "name": "Blue Whale",
+    "maxLifeSpan": 90,
+    "diet": "Carnivore",
+    "favoriteFood": "krill",
+    "maxLengthInFt": 105,
+    "imgSrc": "http://localhost:3000/blue_whale.jpg",
+    "description": "The blue whale (Balaenoptera musculus) is a marine mammal belonging to the baleen whalesuborder Mysticeti. Reaching a maximum confirmed length of 29.9 metres (98 ft) and a weighing up to 199 tonnes (196 long tons; 219 short tons), it is the largest animal known to have existed."
+  }, {
+    "id": "vaquita_whale",
+    "name": "Vaquita Whale",
+    "maxLifeSpan": 20,
+    "diet": "Carnivore",
+    "favoriteFood": "squid",
+    "maxLengthInFt": 4.9,
+    "imgSrc": "http://localhost:3000/vaquita_whale.jpg",
+    "description": "The smallest living species of cetacean, the vaquita can be easily distinguished from any other species in its range. It has a small body with an unusually tall, triangular dorsal fin, a rounded head, and no distinguished beak."
+  }, {
+    "id": "sperm_whale",
+    "name": "Sperm Whale",
+    "maxLifeSpan": 70,
+    "diet": "Carnivore",
+    "favoriteFood": "colossal squid",
+    "maxLengthInFt": 52,
+    "imgSrc": "http://localhost:3000/sperm_whale.jpg",
+    "description": "The sperm whale or cachalot (Physeter macrocephalus) is the largest of the toothed whales and the largest toothed predator. It is the only living member of the genus Physeter and one of three extant species in the sperm whale family, along with the pygmy sperm whale and dwarf sperm whale of the genus Kogia."
+  }, {
+    "id": "humpback_whale",
+    "name": "Humpback Whale",
+    "maxLifeSpan": 100,
+    "diet": "Omnivore",
+    "favoriteFood": "krill",
+    "maxLengthInFt": 52,
+    "imgSrc": "http://localhost:3000/humpback_whale.jpg",
+    "description": "The humpback whale (Megaptera novaeangliae) is a species of baleen whale. It is one of the larger rorqual species, with adults ranging in length from 12–16 m (39–52 ft) and weighing around 25–30 t (28–33 short tons). The humpback has a distinctive body shape, with long pectoral fins and a knobbly head."
+  }, {
+    "id": "beluga_whale",
+    "name": "Beluga Whale",
+    "maxLifeSpan": 50,
+    "diet": "Carnivore",
+    "favoriteFood": "fish",
+    "maxLengthInFt": 20,
+    "imgSrc": "http://localhost:3000/beluga_whale.jpg",
+    "description": "The beluga whale (Delphinapterus leucas) is an Arctic and sub-Arctic cetacean. It is one of two members of the family Monodontidae, along with the narwhal, and the only member of the genus Delphinapterus. It is also known as the white whale, as it is the only cetacean to regularly occur with this color; the sea canary, due to its high-pitched calls."
+  }],
+  "whaleTypes": [{
+    "id": "blue_whale",
+    "name": "Blue Whale"
+  }, {
+    "id": "vaquita_whale",
+    "name": "Vaquita Whale"
+  }, {
+    "id": "sperm_whale",
+    "name": "Sperm Whale"
+  }, {
+    "id": "humpback_whale",
+    "name": "Humpback Whale"
+  }, {
+    "id": "beluga_whale",
+    "name": "Beluga Whale"
+  }]
+}
