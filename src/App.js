@@ -105,7 +105,6 @@ const App = () =>
       <div>Loading <CurrentWhaleIdValue /> info...</div>
     }>
       <CurrentWhalePick />
-    }
     </Suspense>
   </Suspense>
 </RecoilRoot>
